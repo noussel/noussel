@@ -42,19 +42,13 @@
 </div>
 
 ---
-
 ## 🎮 Cub3D Preview (Auto‑play GIF)
 
 <div align="center">
 
 ✨✨✨
 
-<!-- Replace the link below with YOUR Cub3D GIF -->
-
-<!-- Replace the link below with YOUR Cub3D GIF -->
-
-<img src="https://github.com/noussel/cub-gif.git" width="640" alt="Cub3D demo" />
-
+<img src="https://raw.githubusercontent.com/noussel/cub-gif/3a21c66b6a19eda1ac1204f479b9c46b1588cb04/ezgif-30cbc9b5b5fc0998-ezgif.com-optimize.gif" width="640" alt="Cub3D demo" />
 
 ✨✨✨
 
