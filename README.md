@@ -24,7 +24,7 @@
 * 🎀 42 Student
 * 💻 Coding mainly in **C & C++**
 * 🐧 Linux lover
-* 🎮 Passionate about **graphics & 3D**
+* 🎮 Passionate about **graphics**
 * 🌸 Pastel-pink aesthetic, clean & serious code
 
 ---
