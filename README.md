@@ -24,8 +24,8 @@
 * 🎀 42 Student
 * 💻 Coding mainly in **C & C++**
 * 🐧 Linux lover
-* 🎮 Passionate about **graphics**
-* 🌸 Pastel-pink aesthetic, clean & serious code
+* 🎨 Passionate about **graphics**
+* 🌸 clean & serious code
 
 ---
 
@@ -42,7 +42,7 @@
 </div>
 
 ---
-## 🎮 Cub3D Preview (Auto‑play GIF)
+## 🎮 Cub3D Preview
 
 <div align="center">
 
