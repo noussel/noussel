@@ -52,7 +52,8 @@
 <!-- Replace the link below with YOUR Cub3D GIF -->
 
 <!-- Replace the link below with YOUR Cub3D GIF -->
-<img src="https://user-images.githubusercontent.com/00000000/000000000-cub3d-demo.gif" width="640" alt="Cub3D demo" />
+
+<img src="https://github.com/noussel/cub-gif.git" width="640" alt="Cub3D demo" />
 
 
 ✨✨✨
