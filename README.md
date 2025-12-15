@@ -82,7 +82,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxkOGZ1dXRpY2R6amk1c3Z3eHF4d25wNWw4cXkwbG9jMmVhNGx4aSZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="130" />
 
-🌷 *"Soft colors, strong skills."* 💕
+🌷 *"Code with patience, debug with love ."* 💕
 
 ✨ Thanks for visiting my pastel world ✨
 
