@@ -3,13 +3,13 @@
 
 <!-- 🫧 Floating hearts & sparkles (pastel version) -->
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V3b21kZXF3Z3J2dWl6aGJ5bDFqNGF3Z3FjM2l0c3Z1Y3h2dHlkNiZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" width="90" />
+<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V3b21kZXF3Z3J2dWl6aGJ5bDFqNGF3Z3FjM2l0c3Z1Y3h2dHlkNiZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" width="90" />
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVhZ2V1cWc2YTVyNGlwd2V5dTF0eXZkZXZ1aXJxYmZ5bW9ybnl4biZjdD1n/xUPGcguWZHRC2HyBRS/giphy.gif" width="90" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V3b21kZXF3Z3J2dWl6aGJ5bDFqNGF3Z3FjM2l0c3Z1Y3h2dHlkNiZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" width="90" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V3b21kZXF3Z3J2dWl6aGJ5bDFqNGF3Z3FjM2l0c3Z1Y3h2dHlkNiZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" width="90" /> -->
 
 <!-- 🌸 Pastel Pink Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=250&section=header&text=Noussel%20💗&fontSize=54&fontAlignY=36&desc=42%20Student%20|%20C%20%26%20C%2B%2B%20Developer&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=250&section=header&text=Noussel&fontSize=54&fontAlignY=36&desc=42%20Student%20%7C%20C%20and%20C%2B%2B%20Developer&descAlignY=60&animation=twinkling" />
 
 <!-- 🧁 Animated typing text (pastel pink) -->
 
