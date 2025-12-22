@@ -1,19 +1,14 @@
 ## Hi there 👋
 <div align="center">
+  
+<!-- Banner -->
 
-<!-- 🫧 Floating hearts & sparkles (pastel version) -->
-
-<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V3b21kZXF3Z3J2dWl6aGJ5bDFqNGF3Z3FjM2l0c3Z1Y3h2dHlkNiZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" width="90" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVhZ2V1cWc2YTVyNGlwd2V5dTF0eXZkZXZ1aXJxYmZ5bW9ybnl4biZjdD1n/xUPGcguWZHRC2HyBRS/giphy.gif" width="90" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V3b21kZXF3Z3J2dWl6aGJ5bDFqNGF3Z3FjM2l0c3Z1Y3h2dHlkNiZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" width="90" /> -->
-
-<!-- 🌸 Pastel Pink Banner -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=250&section=header&text=Noussel&fontSize=54&fontAlignY=36&desc=42%20Student%20%7C%20C%20and%20C%2B%2B%20Developer&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=250&section=header&text=Noussaiba+Elkhadar&fontSize=54&fontAlignY=36&desc=42%20Student%20%7C%20C%20and%20C%2B%2B%20Developer&descAlignY=60&animation=twinkling" />
 
 <!-- 🧁 Animated typing text (pastel pink) -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=560&lines=Pastel+Pink+Coder+🌸;C+%2F+C%2B%2B+Developer+💻;Cub3D+%7C+Minishell+%7C+Philosophers;Cute+vibes+Serious+code+✨" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=560&lines=Coder;C+%2F+C%2B%2B+Developer;Cub3D+%7C+Minishell+%7C+Philosophers;Cute+vibes+Serious+code" />
+
 
 </div>
 
