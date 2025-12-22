@@ -84,6 +84,4 @@
 
 🌷 *"Code with patience, debug with love ."* 💕
 
-✨ Thanks for visiting my pastel world ✨
-
 </div>
