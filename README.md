@@ -63,13 +63,14 @@
 
 ---
 
-## ✨ GitHub Streak
-
 <div align="center">
+
+✨ **GitHub Streak** ✨  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=noussel&theme=tokyonight&hide_border=true)
 
 </div>
+
 
 ---
 
