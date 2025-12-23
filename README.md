@@ -3,7 +3,7 @@
   
 <!-- Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=250&section=header&text=Noussaiba+Elkhadar&fontSize=54&fontAlignY=36&desc=42%20Student%20%7C%20C%20and%20C%2B%2B%20Developer&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=250&section=header&text=I'm+Noussaiba+Elkhadar&fontSize=54&fontAlignY=36&desc=42%20Student%20%7C%20C%20and%20C%2B%2B%20Developer&descAlignY=60&animation=twinkling" />
 
 <!-- 🧁 Animated typing text (pastel pink) -->
 
