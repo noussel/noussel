@@ -67,7 +67,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=noussel\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=noussel&theme=tokyonight&hide_border=true)
 
 </div>
 
