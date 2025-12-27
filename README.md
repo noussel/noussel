@@ -14,7 +14,7 @@
 
 ---
 
-## 💖 About Me
+## About Me
 
 * 🎀 42 Student
 * 💻 Coding mainly in **C & C++**
