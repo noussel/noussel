@@ -65,10 +65,10 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxkOGZ1dXRpY2R6amk1c3Z3eHF4d25wNWw4cXkwbG9jMmVhNGx4aSZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="130" />
 
 🌷 *"Code with patience, debug with love ."* 💕
 
-</div>
+</div> -->
