@@ -15,12 +15,16 @@
 ---
 
 ## About Me
-
+<!--
 * 🎀 42 Student
 * 💻 Coding mainly in **C & C++**
 * 🐧 Linux lover
 * 🎨 Passionate about **graphics**
-* 🌸 clean & serious code
+* 🌸 clean & serious code--> 
+*  42 Student
+*  Coding mainly in **C & C++**
+*  Linux lover
+*  Passionate about **graphics**
 
 ---
 
