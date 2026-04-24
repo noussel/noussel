@@ -45,11 +45,9 @@
 
 <div align="center">
 
-✨✨✨
 
 <img src="https://raw.githubusercontent.com/noussel/cub-gif/3a21c66b6a19eda1ac1204f479b9c46b1588cb04/ezgif-30cbc9b5b5fc0998-ezgif.com-optimize.gif" width="640" alt="Cub3D demo" />
 
-✨✨✨
 
 </div>
 
