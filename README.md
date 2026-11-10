@@ -19,7 +19,6 @@
 
 🐍 Python Developer.
 
-🤖 Interested in AI, LLMs & RAG.
 
 ---
 
