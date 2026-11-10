@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=250&section=header&text=I'm+Noussaiba+Elkhadar&fontSize=54&fontAlignY=36&desc=42%20Student%20%7C%20Software%20%26%20Full%20Stack%20Developer&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=250&section=header&text=I'm+Noussaiba+Elkhadar&fontSize=54&fontAlignY=36&desc=42%20Student%20%7C%20C%20and%20C%2B%2B%20Developer&descAlignY=60&animation=twinkling" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=650&lines=C+%2F+C%2B%2B+Developer;Full+Stack+Web+Developer;PERN+Stack+%7C+React+%7C+Node.js;Python+Developer;Exploring+LLMs+%26+RAG;Cute+vibes+Serious+code" />
 
